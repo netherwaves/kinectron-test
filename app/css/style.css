@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.hand {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+}
+
+#leftHand {
+    background-color: red;
+}
+
+#rightHand {
+    background-color: green;
+}

@@ -9,7 +9,7 @@ function createWindow () {
     }
   });
 
-  win.webContents.openDevTools();
+  // win.webContents.openDevTools();
 
   win.loadFile('app/index.html')
 }
